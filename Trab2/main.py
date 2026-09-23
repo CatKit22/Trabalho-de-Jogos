@@ -8,7 +8,7 @@ pygame.font.init()
 
 # fonte
 font_size = 32
-font = pygame.font.Font(f"Trab2/fonts/born2bsporty-fs.otf", font_size)
+font = pygame.font.Font("Trab2/fonts/born2bsporty-fs.otf", font_size)
 
 # numero de celulas, tamanho, qtd de minas
 grid_size = (32, 16)
